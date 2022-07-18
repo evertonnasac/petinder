@@ -175,7 +175,7 @@ p{
     bottom: 30px;
     width: 65px;
     height: 65px;
-    background-image: url("/icones/seta.png");
+    background-image: url("../icones/seta.png");
     background-size: 30px;
     background-position: center;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@ p{
 .deslike{
     width: 90px;
     height:90px;
-    background-image: url("/icones/perto.png");
+    background-image: url("../icones/perto.png");
     background-size: 35px;
     background-position: center;
     background-repeat: no-repeat;
@@ -208,7 +208,7 @@ p{
 .like{
     width: 90px;
     height:90px;
-    background-image: url("/icones/amor-verde.png");
+    background-image: url("../icones/amor-verde.png");
     background-size: 45px;
     background-position: center;
     background-repeat: no-repeat;
@@ -224,7 +224,7 @@ p{
     bottom: 30px;
     width: 65px;
     height: 65px;
-    background-image: url("/icones/estrela.png");
+    background-image: url("../icones/estrela.png");
     background-size: 25px;
     background-position: center;
     background-repeat: no-repeat;
